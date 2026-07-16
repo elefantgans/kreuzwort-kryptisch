@@ -12,8 +12,30 @@ Wortspiel:
 Lindau = "LI" (Kfz-Kennzeichen)  
 Furcht = "ANGST"  
 Lindau in Furcht -> ANG-LI-ST  
-Die Oberfläche insinuiert eine (natürlich erfundene) Situation in der eine kleinere Stadt Berührungsängste mit fremden Sprachen und Kulturen (und sei es auch 
-nur Englisch) zeigt. Das Wort "Ist" erfüllt die Rolle eines Verbindungs-, Füll-, Verknüpfungsworts (zwischen Definition und Wortspiel) - es gehört weder zur Definition noch zum Wortspiel.
+Das Wort "Ist" erfüllt die Rolle eines Verbindungs-, Füll-, Verknüpfungsworts (zwischen Definition und Wortspiel) - es gehört weder zur Definition noch zum Wortspiel.
+
+## Schnellstart
+Im ersten Schritt clone dieses Repository, so daß die Ressourcendateien (.puz, .ipuz, .pdf) für Rätsel sich lokal auf deinem Gerät befinden.  
+Zum interaktiven Ausprobieren/Lösen eines Rätsels gibt es u.a. die folgenden alternativen Möglichkeiten:
+1. Verwenden einer Web UI
+   * Navigiere im Web Browser auf eine Site, die Kreuzworträtsel im .puz oder .ipuz Format akzeptiert. Als Beispiel: https://viresh-ratnakar.github.io/exolve-player.html
+   * Wähle eine der Dateien [etuede_1.puz](./raetsel/etuede_1/etuede_1.puz) oder [etuede_1.ipuz](./raetsel/etuede_1/etuede_1.ipuz) und lade sie auf der Webseite (beim Exolve 
+   Player erfolgt es über den "Browse" Button).
+   * Je nach Ehrgeiz versuche das Rätsel ohne Hilfe zu lösen oder cheate (warum nicht) unter Verwendung von Buttons wie "Reveal this".
+2. Verwenden eines Terminals (Linux)
+   * Mit [cursewords](https://github.com/thisisparker/cursewords) kann man lokal im Linux Terminal Kreuzworträtsel im .puz Format lösen.
+   * Aufruf mit `cursewords etuede_1.puz`
+3. Ausdrucken von .pdf Datei, traditionelles Ausfüllen mit Stift
+   * Drucke etuede_1.pdf aus und verschanze dich mit Papier und Stift in der analogen Welt.
+
+## Lernen, Trainieren
+Für das Rätsel [Etüde 1](./raetsel/etuede_1) existiert eine [kommentierte Lösung](./raetsel/etuede_1/etuede_1_kommentar.md). Darin ist für jeden Clue
+neben der Lösung erklärt, welche Arten von Wortspiel zum Einsatz kommen und wie sie funktionieren.  
+Beim Versuch ein Rätsel zu lesen empfehle ich diese Herangehensweise:
+1. Mach eine Anstrengung, den jeweiligen Clue selbst zu lösen. Wenn dir das nicht gelingt, cheate (die Lösungen sind in den .puz und .ipuz Dateien hinterlegt bzw. für die analoge PDF Variante der Kommentar-Datei entnehmbar).
+2. Versuche selbständig (noch ohne Blick in die Kommentar-Datei) die verwendeten Wortspielarten zu erkennen und im Detail nachzuvollziehen wie sie funktionieren.
+3. Lies die Kommentar-Datei und vergleiche mit deinen Analyseergebnissen. Falls du denkst daß Aussagen in der Kommentar-Datei signifikant unvollständig oder fehlerhaft sind,
+raise gern einen entsprechenden Pull-Request oder einen Issue.
 
 ## Merkmale, Regeln, Konventionen
 * Jeder Clue besteht aus 2 Teilen:
@@ -31,10 +53,11 @@ nicht unwesentlich bei.
     * Entfernen von Buchstaben aus verschiedenen Positionen eines Wortes. Z.B. "Drang <ins>ohne Ende</ins>" -> "DRAN".
     * Anfangsbuchstaben mehrerer Wörter zum Bilden eines Akrostichons: "<ins>Anfänglich</ins> keine Lust auf Randale" -> "KLAR".
     * Versteckte Wörter, z.B. "<ins>In</ins> Anbetracht ungeheurer [...]" -> "ACHTUNG".
+    * Hülle (Wörter in Wörtern), z.B. gekennzeichnet mit "in", "enthalten in", "aufgenommen von", "willkommen geheißen" etc.
 * Lösungswörter sollen/müssen in einem etablierten Wörterbuch der deutschen Sprache wie z.B. dem [Duden](https://www.duden.de/woerterbuch) oder dem 
 [Digitalen Wörterbuch der Deutschen Sprache](https://www.dwds.de) zu finden sein. Ausnahmen sind möglich, wenn der Kontext es hinreichend einfach möglich macht, die Lösung zu finden. Das bedeutet aber umgekehrt auch, dass sehr exotische und komplizierte Wörter legitim sind, solange sie in einem der erwähnten Nachschlagewerke
 aufgeführt sind.
-* Quellen und Material für Abkürzungen (die dann als Teile von Wörtern verwendet werden) sind mannigfaltig. Z.B. ist es (meine) Praxis, u.a. die folgenden Quellen heranzuziehen:
+* Quellen und Material für Abkürzungen (die dann als Teile von Wörtern verwendet werden) sind mannigfaltig. Z.B. ist es Praxis, u.a. die folgenden Quellen heranzuziehen:
     * [Römische Zahlen](https://de.wikipedia.org/wiki/R%C3%B6mische_Zahlschrift), also "I", "V", "C", "M", ..., in beliebigen Kombinationen
     * (nicht zu viel Vorkenntnis erfordernde) fremdsprachliche Wörter, z.B. "er englisch" -> "he", "sie in Paris" -> "elle", ...
     * [2- und 3-stellige Länder- und Sprachcodes](https://de.wikipedia.org/wiki/ISO-3166-1-Kodierliste), wie z.B. "en", "fr", "it".
@@ -47,14 +70,12 @@ aufgeführt sind.
     sollte vermieden werden, aber oft ist es in einem Clue nicht schwer zu sehen dass eine Abkürzung gesucht wird.
     * [Physikalische Größen](https://de.wikipedia.org/wiki/Liste_physikalischer_Gr%C3%B6%C3%9Fen): z.B. "U" für Spannung
 * Grammatikalische Regeln
-    * Die Definition muß dieselbe Wortart haben wie das gesuchte Wort. Wenn z.B. das gesuchte Wort "Maus" ist, dann sind z.B. "Nagetier", "kleiner Käsefresser", 
-    "Abendessen der Katze" zulässige Definitionen. Demgegenüber sind "ist klein und piept", "fellbedeckt und süß" unzulässig. In einer noch zulässigen Grauzone bewegt sich        eine Definition wie "die ist klein und piept" (für Maus).
+    * Die Definition muß dieselbe Wortart haben wie das gesuchte Wort bzw. muß eindeutigen Rückschluss zulassen was für eine Wortart gesucht ist. Wenn z.B. das gesuchte Wort "Maus" ist, dann sind z.B. "Nagetier", "kleiner Käsefresser", "Abendessen der Katze" zulässige Definitionen. Auch der Numerus (also Singular vs. Plural) muß zwischen
+    Definition und Lösung übereinstimmen.
     * Der Clue als Gesamtheit muß "lesbar" sein (in seiner Oberflächen-Bedeutung). Das ist eine sehr vage aber hoffentlich mit zunehmender Erfahrung sinnvoller werdende Charakterisierung. Es ist gemeint, 
     daß ein Clue im weiteren Sinn auch im normalen Leben vorkommen könnte, z.B. in Form eines Werbeslogans, einer Zeitungs-Schlagzeile, etc. Es muß sich nicht um einen
     wohlgeformten kompletten Satz handeln (das ist auch im Kontext von Wortspielen oft nicht möglich), aber es soll beim Lesenden im Idealfall eine Bedeutung, ein Bild, eine
-    Vorstellung evozieren. Dieser Aspekt ist an Wichtigkeit nicht zu unterschätzen, er würde einen beträchtlichen Teil verbreiteter (nicht-kryptischer) Clues in Publikationen 
-    wie "Zeit" ("Um die Ecke gedacht") und "Süddeutsche Zeitung" ("Das Kreuz mit den Worten") als nicht konform klassifizieren (was sie aber ja auch gar nicht
-    anstreben).       
+    Vorstellung evozieren. 
 * Sonderzeichen, Satzzeichen, Umlaute, Groß- und Kleinschreibung
     * Aktuell sind die in Lösungswörtern vorkommenden Zeichen sämtlich ASCII-Zeichen. D.h. Akzente u.ä. werden ignoriert.
     * Umlaute werden durch 2 Buchstaben kodiert: "AE" für "Ä", "OE" für "Ö", "UE" für "Ü". Das Eszett ("scharfes S") "ß" wird durch "SS" ersetzt.
