@@ -5,17 +5,14 @@ __HEULSTE__
 Definition: Biste sehr traurig?  
 Wortspiel: [Anagramm](https://de.wikipedia.org/wiki/Anagramm)    
 (STUEHLE)* (Anagramm Indikator: "gerückt"): HEULSTE  
-Anmerkungen:  
-* Nicht vergessen: Umlaute werden zu 2 Buchstaben ("Ü" -> "UE").
-* "Heulste" ist kein Wort dass so in Duden oder DWDS steht, das "biste" in der Definition gibt aber augenzwinkernd einen hoffentlich ausreichenden Hinweis.
+"Heulste" ist kein Wort, das so in [Duden](https://www.duden.de/) oder [DWDS](https://www.dwds.de/) steht, das "biste" in der Definition gibt aber einen hoffentlich akzeptablen Hinweis, dass hier die Regeln etwas gedehnt werden.  
 
 #### 8 &nbsp;&nbsp; _Zitrusfrucht mit Teil Met gemixt (7)_   
 __LIMETTE__  
 Definition: Zitrusfrucht  
 Wortspiel: Anagramm  
 (TEIL MET)* (Anagrind: "gemixt"): [LIMETTE](https://de.wikipedia.org/wiki/Limette)  
-Anmerkungen:  
-* "mit" ist ein Verknüpfungswort zwischen Definition und Wortspiel.
+"mit" ist ein Verknüpfungswort zwischen Definition und Wortspiel.  
 
 #### 9 &nbsp;&nbsp; _Einquartiert in Koje? Nein, nicht diese (4)_  
 __JENE__  
@@ -27,7 +24,7 @@ Indikator: "einquartiert in": koJE? NEin -> JENE
 __ENDAUSBAU__  
 Definition: Letzte Phase von geplanter Erweiterung  
 Wortspiel: [Scharade](https://de.wikipedia.org/wiki/Scharade_(Silbenr%C3%A4tsel)), Hülle  
-Vertraulichkeitsvereinbarung = Non Disclosure Agreement = NDA  
+[Vertraulichkeitsvereinbarung](https://de.wikipedia.org/wiki/Vertraulichkeitsvereinbarung) = Non Disclosure Agreement = NDA  
 Amerika = US  
 Bosnien-Herzegowina = BA  
 Hülle: NDA mit US und BA _in_ EU -> E_NDA_US_BA_U  
@@ -47,16 +44,14 @@ __ROENTGEN__
 Definition: Perspektive erhalten  
 Wortspiel: Anagramm  
 (ENGEN ORT)* (Anagrind: "nach Positionswechsel") -> ROENTGEN  
-Anmerkungen:  
-* "vom" ist ein Verknüpfungswort  
+"vom": Verknüpfungswort  
 
 #### 15 &nbsp;&nbsp; _Reiz-Reaktion von Schmuck (4)_  
 __ZIER__  
 Definition: Schmuck  
 Wortspiel: Wort rückwärts  
 Reiz -> ZIER (Indikator: "Reaktion")  
-Anmerkungen:  
-* "von" ist ein Verknüpfungswort.  
+"von": Verknüpfungswort    
 
 #### 16 &nbsp;&nbsp; _Registereintrag vielleicht für nonkonformistischen Provokateur mit Tesla (5)_   
 __PUNKT__  
@@ -65,18 +60,18 @@ Wortspiel: Scharade
 Nonkonformistischer Provokateur: [PUNK](https://de.wikipedia.org/wiki/Punk)    
 Tesla: T (die [Einheit der magnetischen Flußdichte](https://de.wikipedia.org/wiki/Tesla_(Einheit)))    
 Nonkonformistischer Provokateur mit Tesla: PUNK-T  
-Anmerkungen:  
-* Das "vielleicht" in der Definition weist darauf hin, dass eine "Definition durch Beispiel" vorliegt. In diesem Fall ist ein Punkt in Flensburg
-nur eine von mehreren möglichen Definitionen von "Punkt". Eine andere Möglichkeit der Kennzeichnung wäre z.B. durch ein Fragezeichen.
-* "für" ist ein Verknüpfungswort.  
+Das "vielleicht" in der Definition weist darauf hin, dass eine "Definition durch Beispiel" vorliegt. In diesem Fall ist ein Punkt in Flensburg
+nur eine von mehreren möglichen Definitionen von "Punkt" (weitere Beispiele: mathematisch-geometrischer Punkt, Listen-Punkt, Satzzeichen-Punkt, ...).
+Eine andere Möglichkeit der Kennzeichnung wäre z.B. durch ein Fragezeichen.  
+"für": Verknüpfungswort   
 
-#### 17 &nbsp;&nbsp; _Zu Beginn gibt Wortführer von Apparatschiks José kurz lockere, transparente Struktur (4)_  
+#### 17 &nbsp;&nbsp; _Zu Beginn gibt Wortführer von Apparatschiks José kurz durchschaubaren Stoff (4)_  
 __GAZE__  
-Definition: Lockere, transparente Struktur  
+Definition: Durchschaubarer Stoff
 Wortspiel: Scharade  
-Zu Beginn gibt: G  
-Wortführer von [Apparatschiks](https://de.wikipedia.org/wiki/Apparatschik): A  
-José kurz: ZE (Zé ist die Kurzform des portugiesischen Namens José)  
+Zu Beginn gibt: G ("zu Beginn" als Hinweis auf ersten Buchstaben von Wörtern)
+Wortführer von [Apparatschiks](https://de.wikipedia.org/wiki/Apparatschik): A ("Wortführer" als Hinweis auf ersten Buchstaben)
+José kurz: ZE (Zé ist eine Kurzform des portugiesischen Namens José)  
 G_A_ZE  
 
 #### 18 &nbsp;&nbsp; _Um neue Becquerel angepasst, außerhalb der Komfortzone (8)_  
@@ -84,7 +79,7 @@ __UNBEQUEM__
 Definition: Außerhalb der Komfortzone  
 Wortspiel: Anagramm  
 Becquerel: BQ ([Maßeinheit für Radioaktivität](https://en.wikipedia.org/wiki/Becquerel))  
-(UM NEUE BQ)* (Anagrind: "angepasst")  
+(UM NEUE BQ)* (Anagrind: "angepasst") -> UNBEQUEM  
 
 #### 20	&nbsp;&nbsp; _Von Beobachtungsposten: "Rühr dich nicht von der Stelle!" (5)_  
 __WARTE__  
@@ -92,8 +87,8 @@ Definition: Von Beobachtungsposten, "Rühr dich nicht von der Stelle!"
 Wortspiel: (Doppeldefinition)  
 Anmerkungen:  
 * Eine Doppeldefinition verwendet anstelle der Kombination von Definition und Wortspiel 2 Definitionen.
-In diesem Fall: Der Beobachtungsposten als (die) Warte, und "Rühr dich nicht von der Stelle!" als Umschreibung für "Warte!".
-* "von" ist ein Verknüpfungswort (und hier natürlich auch hilfreich für die Konstruktion der Oberfläche).  
+In diesem Fall: Der Beobachtungsposten als (die) [Warte](https://de.wikipedia.org/wiki/Warte), und "Rühr dich nicht von der Stelle!" als Umschreibung für "Warte!".  
+"von": Verknüpfungswort (und hilfreich für die Konstruktion der Oberfläche)    
 
 #### 21	&nbsp;&nbsp; _Dr. Hein beunruhigt: nichtionisierende Strahlung ist Problem (9)_   
 __HINDERNIS__  
@@ -101,8 +96,7 @@ Definition: Problem
 Wortspiel: Anagramm, Scharade  
 (DR HEIN)* (Anagrind: "beunruhigt") -> HINDER  
 [Nichtionisierende Strahlung](https://de.wikipedia.org/wiki/Nichtionisierende_Strahlung): NIS  
-HINDER-NIS  
-Anmerkungen:  
+HINDER-NIS   
 "ist": Verknüpfungswort  
 
 #### 22	&nbsp;&nbsp; _Kunstgriff mit heißem Herd (4)_  
@@ -110,6 +104,7 @@ __DREH__
 Definition: Kunstgriff  
 Wortspiel: Anagramm  
 (HERD)* (Anagrind: "heißem") -> DREH  
+"mit": Verknüpfungswort  
 
 #### 23	&nbsp;&nbsp; _Kirchliche Stiftung für Viktorias Sologesang (7)_  
 __VIKARIE__  
@@ -118,6 +113,7 @@ Wortspiel: Scharade
 Viktoria: VIK (als angenommene Abkürzung des Namens)  
 Sologesang: ARIE  
 VIK-ARIE  
+"für": Verknüpfungswort  
 
 #### 24	&nbsp;&nbsp; _Gesundheits-Expertin: Ursprünglich Arsen an Mineralgemisch mit Zinn in Cornwall (7)_   
 __AERZTIN__  
@@ -154,13 +150,10 @@ Wortspiel: Anagramm
 __VIRULENT__  
 Definition: Wichtig  
 Wortspiel: Scharade, Wortverkürzung  
-Römer: VIR (lateinisch "Vir" für "Mann")  
+Römer: VIR (lateinisch "Vir" für "Mann", taucht z.B. im Fremdwort "[Virilität](https://de.wikipedia.org/wiki/M%C3%A4nnlichkeit)" auf)  
 Bildungseinrichtung halbiert: ULE (Zweite Hälfte von "Schule")  
 Neues Testament: NT  
 VIR-ULE-NT  
-Anmerkungen:  
-* Falls jemand einwendet dass das lateinische Wort "Vir" ein bischen zu exotisch ist, würde ich widersprechen.
-Es taucht z.B. auch im Fremdwort "[Virilität](https://de.wikipedia.org/wiki/M%C3%A4nnlichkeit)" auf.  
 
 #### 5 &nbsp;&nbsp; _Ich studiere englische Literatur (Beowulf, Sinnsprüche, Textkorpora, ...) in ihren Anfängen (6)_  
 __SELBST__  
@@ -192,18 +185,18 @@ Definition: Pädagogische Fachkraft
 Wortspiel: Anagramm  
 (HEIZ REINER)* (Anagrind: "entspannt") -> ERZIEHERIN  
 
-#### 16 &nbsp;&nbsp; _Dozentin ist eine, die taktvoll vorgeht (8)_  
+#### 16 &nbsp;&nbsp; _Dozentin ist eine, die sich taktvoll verhält (8)_  
 __PAUKERIN__  
 Definition: "Dozentin" - eine Lehrerin bzw. [Paukerin](https://www.dwds.de/wb/Pauker), 
-"eine, die taktvoll vorgeht" - eine die [Pauke](https://de.wikipedia.org/wiki/Pauke) spielt   
+"eine, die sich taktvoll verhält" - eine die [Pauke](https://de.wikipedia.org/wiki/Pauke) spielt   
 Wortspiel: (Doppeldefinition)  
 
-#### 17 &nbsp;&nbsp; _Länge ohne Breite: extrem richtig (8)_  
+#### 17 &nbsp;&nbsp; _Richtig, derzeit geschlossen (8)_  
 __GERADEZU__  
 Definition: richtig (im Sinn von z.B. "richtig fahrlässig", "richtig genial")  
 Wortspiel: Scharade  
-Länge ohne Breite: GERADE (Euklids Definition des mathematischen Begriffs der [Gerade](https://de.wikipedia.org/wiki/Gerade))  
-extrem: ZU (im Sinn von "allzu", z.B. "zu heiß", "zu stark", "zu wenig")  
+derzeit: GERADE  
+geschlossen: ZU  
 GERADE-ZU  
 
 #### 19 &nbsp;&nbsp; _Eingeschmolzene arabische Goldmünzen als Vehikel für Balance (6)_  
