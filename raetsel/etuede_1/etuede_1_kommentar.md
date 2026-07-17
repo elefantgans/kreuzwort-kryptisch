@@ -211,8 +211,7 @@ __WASSER__
 Definition: [Bach](https://de.wikipedia.org/wiki/Bach) z.B.  
 Wortspiel: Verstecktes Wort  
 rhythmischeRES SAWallisch: WASSER ("in fragmentarischer Rückblende" ist Hinweis auf rückwärts zu lesendes verstecktes Wort)  
-Anmerkungen:  
-* [Sawallisch](https://de.wikipedia.org/wiki/Wolfgang_Sawallisch) hat natürlich auch [Bach](https://de.wikipedia.org/wiki/Johann_Sebastian_Bach) dirigiert,
+[Sawallisch](https://de.wikipedia.org/wiki/Wolfgang_Sawallisch) hat natürlich auch [Bach](https://de.wikipedia.org/wiki/Johann_Sebastian_Bach) dirigiert,
   wenn auch das mit der "fragmentarischen Rückblende" erfunden ist.    
 
 #### 21 &nbsp;&nbsp; _Schonung für Amnesty International in Honduras (4)_  
